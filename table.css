@@ -1,0 +1,32 @@
+.background-image
+ {
+    position: fixed ;
+    background-ima: url("../css/images/rvu-logo.png");
+    width: 1200px;
+    height: 800px;
+    filter: blur(8px);
+  }
+  
+  .content 
+  {
+    position: fixed;
+    left: 0;
+    right: 0;
+    border-collapse: collapse;  
+}
+
+h1
+{
+    text-align: center;
+}
+
+td,th
+{
+    text-align: center;
+    
+}
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
